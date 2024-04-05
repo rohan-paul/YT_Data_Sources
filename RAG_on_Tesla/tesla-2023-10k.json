@@ -1,0 +1,42 @@
+[
+    {
+        "question": "What was Tesla's revenue in 2023?",
+        "answer": "$96.77 billion",
+        "context": "In 2023, we recognized total revenues of $96.77 billion, representing an increase of $15.31 billion, compared to the prior year. We continue to ramp production, build new manufacturing capacity and expand our operations to enable increased deliveries and deployments of our products, and invest in research and development to accelerate our AI, software and fleet-based profits for further revenue growth."
+    },
+    {
+        "question": "How much GWh of energy storage products was deployed in 2023?",
+        "answer": "14.72 GWh",
+        "context": "In 2023, we deployed 14.72 GWh of energy storage products and 223 megawatts of solar energy systems. We are currently focused on ramping production of energy storage products, improving our Solar Roof installation capability and efficiency, and increasing market share of retrofit solar energy systems."
+    },
+    {
+        "question": "How many consumer vehicles were produced in 2023?",
+        "answer": "1,845,985",
+        "context": "In 2023, we produced 1,845,985 consumer vehicles and delivered 1,808,581 consumer vehicles. We are currently focused on increasing vehicle production, capacity and delivery capabilities, reducing costs, improving and developing our vehicles and battery technologies, vertically integrating and localizing our supply chain, improving and further deploying our FSD capabilities, increasing the affordability and efficiency of our vehicles, bringing new products to market and expanding our global infrastructure, including our service and charging infrastructure."
+    },
+    {
+        "question": "What was Tesla's cash and cash equivalents and investments by end of 2023?",
+        "answer": "$29.09 billion",
+        "context": "We ended 2023 with $29.09 billion in cash and cash equivalents and investments, representing an increase of $6.91 billion from the end of 2022. Our cash flows provided by operating activities in 2023 and 2022 were $13.26 billion and $14.72 billion, respectively, representing a decrease of $1.47 billion. Capital expenditures amounted to $8.90 billion in 2023, compared to $7.16 billion in 2022, representing an increase of $1.74 billion. Sustained growth has allowed our business to generally fund itself, and we will continue investing in a number of capital-intensive projects and research and development in upcoming periods."
+    },
+    {
+        "question": "What was the cash flows provided by operating activities in 2023?",
+        "answer": "$13.26 billion",
+        "context": "We ended 2023 with $29.09 billion in cash and cash equivalents and investments, representing an increase of $6.91 billion from the end of 2022. Our cash flows provided by operating activities in 2023 and 2022 were $13.26 billion and $14.72 billion, respectively, representing a decrease of $1.47 billion. Capital expenditures amounted to $8.90 billion in 2023, compared to $7.16 billion in 2022, representing an increase of $1.74 billion. Sustained growth has allowed our business to generally fund itself, and we will continue investing in a number of capital-intensive projects and research and development in upcoming periods."
+    },
+    {
+        "question": "What was the increase/decrease of Energy generation and storage revenue in 2023 for Tesla?",
+        "answer": "$2.13 billion, or 54%",
+        "context": "Energy generation and storage revenue increased $2.13 billion, or 54%, in the year ended December 31, 2023 as compared to the year ended December 31, 2022. The increase was primarily due to an increase in deployments of Megapack."
+    },
+    {
+        "question": "What was the aggregate principal amount of indebtedness for Tesla and all its subsidiaries, as of December 31, 2023?",
+        "answer": "$4.68 billion",
+        "context": "As of December 31, 2023, we and our subsidiaries had outstanding $4.68 billion in aggregate principal amount of indebtedness, of which $1.98 billion is scheduled to become due in the succeeding 12 months. "
+    },
+    {
+        "question": "In 2024, what's the corporate income tax rate that will be applicable on Gigafactory Shanghai",
+        "answer": "25%",
+        "context": "The local government of Shanghai granted a beneficial corporate income tax rate of 15% to certain eligible enterprises, compared to the 25% statutory corporate income tax rate in China. Our Gigafactory Shanghai subsidiary was granted this beneficial income tax rate of 15% for 2019 through 2023. Starting in 2024, Gigafactory Shanghai is subject to 25% statutory corporate income tax rate in China."
+    }
+]

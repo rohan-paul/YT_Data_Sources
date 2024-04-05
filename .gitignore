@@ -117,13 +117,6 @@ __pycache__/
 **/*.bin
 /.bin
 
-.json/
-*.json
-/*.json
-*/*.json
-**/*.json
-/.json
-
 .next/
 *.next
 /*.next
